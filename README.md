@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###### Stadying in Xidian University from 2025
-## Currently learning on C (by school) ; Html+Css ; WXML
+###### I'm ZJZ, Stadying in Xidian University from 2025🌊
+## Currently learning on C🍭 (by school) ; Html+Css🖥️ ; WXML📱
 ##### I'm working on WeChat mini program.
-##### I have some konwledge on computer operation system such as Windows and Macos;
+##### I have some konwledge on computer operation system such as Windows🙈 and Macos😻;
 ##### Still in single🫠
 
